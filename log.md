@@ -1,29 +1,29 @@
-# Simulation results for September 2069
+# Simulation results for October 2069
 
-* **Runs simulated:** 25000 (in 4 minutes, 31 seconds)
+* **Runs simulated:** 25000 (in 4 minutes, 35 seconds)
 
-* **Estimated turns remaining (avg & 95% confidence interval):** 794 (792-797)
+* **Estimated turns remaining (avg & 95% confidence interval):** 792 (790-795)
 
-* **Estimated gameplay time remaining (avg turns, 1h per turn):** 33 days, 2 hours
+* **Estimated gameplay time remaining (avg turns, 1h per turn):** 33 days, 0 hours
 
 ## Wins by country:
-1. Vietnam (13499, 54.0%)
-2. Peru (10274, 41.1%)
-3. Democratic Republic of the Congo (1018, 4.07%)
-4. Portugal (124, 0.5%)
-5. Svalbard and Jan Mayen (35, 0.14%)
-6. Serbia (14, 0.06%)
-7. Pitcairn Islands (12, 0.05%)
-8. Estonia (11, 0.04%)
-9. Belize (6, 0.02%)
-10. Luxembourg (5, 0.02%)
-11. Kuwait (2, 0.01%)
-12. Afghanistan (0, 0.0%)
-13. Albania (0, 0.0%)
-14. Algeria (0, 0.0%)
-15. Andorra (0, 0.0%)
-16. Angola (0, 0.0%)
-17. Antarctica (0, 0.0%)
+1. Vietnam (13092, 52.37%)
+2. Peru (10539, 42.16%)
+3. Democratic Republic of the Congo (1155, 4.62%)
+4. Portugal (135, 0.54%)
+5. Svalbard and Jan Mayen (37, 0.15%)
+6. Pitcairn Islands (15, 0.06%)
+7. Estonia (12, 0.05%)
+8. Luxembourg (6, 0.02%)
+9. Serbia (5, 0.02%)
+10. Belize (2, 0.01%)
+11. Antarctica (1, 0.0%)
+12. Kuwait (1, 0.0%)
+13. Afghanistan (0, 0.0%)
+14. Albania (0, 0.0%)
+15. Algeria (0, 0.0%)
+16. Andorra (0, 0.0%)
+17. Angola (0, 0.0%)
 18. Argentina (0, 0.0%)
 19. Armenia (0, 0.0%)
 20. Australia (0, 0.0%)
