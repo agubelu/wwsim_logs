@@ -1,23 +1,23 @@
-# Simulation results for June 2070
+# Simulation results for July 2070
 
-* **Runs simulated:** 25000 (in 4 minutes, 36 seconds)
+* **Runs simulated:** 25000 (in 4 minutes, 32 seconds)
 
-* **Estimated turns remaining (avg & 95% confidence interval):** 790 (788-793)
+* **Estimated turns remaining (avg & 95% confidence interval):** 787 (785-789)
 
-* **Estimated gameplay time remaining (avg turns, 1h per turn):** 32 days, 22 hours
+* **Estimated gameplay time remaining (avg turns, 1h per turn):** 32 days, 19 hours
 
 ## Wins by country:
-1. Vietnam (11811, 47.24%)
-2. Peru (11783, 47.13%)
-3. Democratic Republic of the Congo (1211, 4.84%)
-4. Svalbard and Jan Mayen (63, 0.25%)
-5. Portugal (61, 0.24%)
-6. Luxembourg (34, 0.14%)
+1. Vietnam (11917, 47.67%)
+2. Peru (11907, 47.63%)
+3. Democratic Republic of the Congo (1010, 4.04%)
+4. Portugal (54, 0.22%)
+5. Svalbard and Jan Mayen (46, 0.18%)
+6. Luxembourg (30, 0.12%)
 7. Pitcairn Islands (20, 0.08%)
-8. Serbia (10, 0.04%)
-9. Estonia (4, 0.02%)
-10. Antarctica (2, 0.01%)
-11. Belize (1, 0.0%)
+8. Serbia (11, 0.04%)
+9. Belize (2, 0.01%)
+10. Estonia (2, 0.01%)
+11. Antarctica (1, 0.0%)
 12. Afghanistan (0, 0.0%)
 13. Albania (0, 0.0%)
 14. Algeria (0, 0.0%)
