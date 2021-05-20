@@ -1,22 +1,22 @@
-# Simulation results for November 2073
+# Simulation results for December 2073
 
-* **Runs simulated:** 25000 (in 4 minutes, 33 seconds)
+* **Runs simulated:** 25000 (in 4 minutes, 30 seconds)
 
-* **Estimated turns remaining (avg & 95% confidence interval):** 780 (778-783)
+* **Estimated turns remaining (avg & 95% confidence interval):** 787 (785-790)
 
-* **Estimated gameplay time remaining (avg turns, 1h per turn):** 32 days, 12 hours
+* **Estimated gameplay time remaining (avg turns, 1h per turn):** 32 days, 19 hours
 
 ## Wins by country:
-1. Vietnam (15601, 62.4%)
-2. Peru (7780, 31.12%)
-3. Democratic Republic of the Congo (1336, 5.34%)
-4. Portugal (199, 0.8%)
-5. Svalbard and Jan Mayen (49, 0.2%)
-6. Pitcairn Islands (18, 0.07%)
-7. Luxembourg (7, 0.03%)
-8. Serbia (6, 0.02%)
-9. Belize (3, 0.01%)
-10. Antarctica (1, 0.0%)
+1. Vietnam (16251, 65.0%)
+2. Peru (6692, 26.77%)
+3. Democratic Republic of the Congo (1685, 6.74%)
+4. Portugal (258, 1.03%)
+5. Svalbard and Jan Mayen (64, 0.26%)
+6. Luxembourg (20, 0.08%)
+7. Pitcairn Islands (10, 0.04%)
+8. Belize (9, 0.04%)
+9. Serbia (8, 0.03%)
+10. Antarctica (3, 0.01%)
 11. Afghanistan (0, 0.0%)
 12. Albania (0, 0.0%)
 13. Algeria (0, 0.0%)
