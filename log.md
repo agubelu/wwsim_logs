@@ -1,21 +1,21 @@
-# Simulation results for April 2075
+# Simulation results for May 2075
 
 * **Runs simulated:** 25000 (in 4 minutes, 18 seconds)
 
-* **Estimated turns remaining (avg & 95% confidence interval):** 754 (751-756)
+* **Estimated turns remaining (avg & 95% confidence interval):** 752 (749-754)
 
-* **Estimated gameplay time remaining (avg turns, 1h per turn):** 31 days, 10 hours
+* **Estimated gameplay time remaining (avg turns, 1h per turn):** 31 days, 8 hours
 
 ## Wins by country:
-1. Vietnam (18845, 75.38%)
-2. Peru (4917, 19.67%)
-3. Democratic Republic of the Congo (995, 3.98%)
-4. Svalbard and Jan Mayen (160, 0.64%)
-5. Portugal (57, 0.23%)
-6. Serbia (10, 0.04%)
-7. Belize (6, 0.02%)
-8. Luxembourg (6, 0.02%)
-9. Pitcairn Islands (3, 0.01%)
+1. Vietnam (18226, 72.9%)
+2. Peru (5775, 23.1%)
+3. Democratic Republic of the Congo (781, 3.12%)
+4. Svalbard and Jan Mayen (171, 0.68%)
+5. Portugal (32, 0.13%)
+6. Pitcairn Islands (6, 0.02%)
+7. Luxembourg (3, 0.01%)
+8. Serbia (3, 0.01%)
+9. Belize (2, 0.01%)
 10. Kuwait (1, 0.0%)
 11. Afghanistan (0, 0.0%)
 12. Albania (0, 0.0%)
