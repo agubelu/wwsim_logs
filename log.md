@@ -1,23 +1,23 @@
-# Simulation results for October 2077
+# Simulation results for November 2077
 
-* **Runs simulated:** 25000 (in 4 minutes, 28 seconds)
+* **Runs simulated:** 25000 (in 4 minutes, 15 seconds)
 
-* **Estimated turns remaining (avg & 95% confidence interval):** 740 (738-743)
+* **Estimated turns remaining (avg & 95% confidence interval):** 731 (729-734)
 
-* **Estimated gameplay time remaining (avg turns, 1h per turn):** 30 days, 20 hours
+* **Estimated gameplay time remaining (avg turns, 1h per turn):** 30 days, 11 hours
 
 ## Wins by country:
-1. Vietnam (19313, 77.25%)
-2. Peru (4501, 18.0%)
-3. Democratic Republic of the Congo (1030, 4.12%)
-4. Portugal (74, 0.3%)
-5. Svalbard and Jan Mayen (66, 0.26%)
-6. Belize (3, 0.01%)
-7. Estonia (3, 0.01%)
-8. Pitcairn Islands (3, 0.01%)
-9. Serbia (3, 0.01%)
-10. Antarctica (2, 0.01%)
-11. Luxembourg (2, 0.01%)
+1. Vietnam (19745, 78.98%)
+2. Peru (4202, 16.81%)
+3. Democratic Republic of the Congo (895, 3.58%)
+4. Portugal (68, 0.27%)
+5. Svalbard and Jan Mayen (67, 0.27%)
+6. Luxembourg (10, 0.04%)
+7. Pitcairn Islands (4, 0.02%)
+8. Antarctica (3, 0.01%)
+9. Estonia (3, 0.01%)
+10. Serbia (2, 0.01%)
+11. Belize (1, 0.0%)
 12. Afghanistan (0, 0.0%)
 13. Albania (0, 0.0%)
 14. Algeria (0, 0.0%)
