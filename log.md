@@ -1,22 +1,22 @@
-# Simulation results for February 2078
+# Simulation results for March 2078
 
-* **Runs simulated:** 25000 (in 4 minutes, 17 seconds)
+* **Runs simulated:** 25000 (in 4 minutes, 12 seconds)
 
-* **Estimated turns remaining (avg & 95% confidence interval):** 732 (730-734)
+* **Estimated turns remaining (avg & 95% confidence interval):** 730 (728-732)
 
-* **Estimated gameplay time remaining (avg turns, 1h per turn):** 30 days, 12 hours
+* **Estimated gameplay time remaining (avg turns, 1h per turn):** 30 days, 10 hours
 
 ## Wins by country:
-1. Vietnam (18989, 75.96%)
-2. Peru (5188, 20.75%)
-3. Democratic Republic of the Congo (684, 2.74%)
-4. Portugal (65, 0.26%)
-5. Svalbard and Jan Mayen (58, 0.23%)
-6. Luxembourg (5, 0.02%)
+1. Vietnam (18944, 75.78%)
+2. Peru (5232, 20.93%)
+3. Democratic Republic of the Congo (696, 2.78%)
+4. Portugal (55, 0.22%)
+5. Svalbard and Jan Mayen (48, 0.19%)
+6. Luxembourg (12, 0.05%)
 7. Estonia (4, 0.02%)
-8. Pitcairn Islands (4, 0.02%)
-9. Antarctica (2, 0.01%)
-10. Serbia (1, 0.0%)
+8. Antarctica (3, 0.01%)
+9. Pitcairn Islands (3, 0.01%)
+10. Serbia (3, 0.01%)
 11. Afghanistan (0, 0.0%)
 12. Albania (0, 0.0%)
 13. Algeria (0, 0.0%)
