@@ -1,19 +1,19 @@
-# Simulation results for May 2079
+# Simulation results for June 2079
 
-* **Runs simulated:** 25000 (in 4 minutes, 11 seconds)
+* **Runs simulated:** 25000 (in 4 minutes, 16 seconds)
 
-* **Estimated turns remaining (avg & 95% confidence interval):** 721 (719-724)
+* **Estimated turns remaining (avg & 95% confidence interval):** 721 (719-723)
 
 * **Estimated gameplay time remaining (avg turns, 1h per turn):** 30 days, 1 hours
 
 ## Wins by country:
-1. Vietnam (17866, 71.46%)
-2. Peru (6557, 26.23%)
-3. Democratic Republic of the Congo (503, 2.01%)
-4. Portugal (32, 0.13%)
-5. Svalbard and Jan Mayen (25, 0.1%)
-6. Luxembourg (14, 0.06%)
-7. Estonia (3, 0.01%)
+1. Vietnam (18067, 72.27%)
+2. Peru (6282, 25.13%)
+3. Democratic Republic of the Congo (576, 2.3%)
+4. Svalbard and Jan Mayen (27, 0.11%)
+5. Portugal (25, 0.1%)
+6. Luxembourg (22, 0.09%)
+7. Estonia (1, 0.0%)
 8. Afghanistan (0, 0.0%)
 9. Albania (0, 0.0%)
 10. Algeria (0, 0.0%)
