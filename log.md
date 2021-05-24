@@ -1,18 +1,18 @@
-# Simulation results for August 2080
+# Simulation results for September 2080
 
-* **Runs simulated:** 25000 (in 4 minutes, 15 seconds)
+* **Runs simulated:** 25000 (in 4 minutes, 28 seconds)
 
-* **Estimated turns remaining (avg & 95% confidence interval):** 714 (712-716)
+* **Estimated turns remaining (avg & 95% confidence interval):** 711 (709-713)
 
-* **Estimated gameplay time remaining (avg turns, 1h per turn):** 29 days, 18 hours
+* **Estimated gameplay time remaining (avg turns, 1h per turn):** 29 days, 15 hours
 
 ## Wins by country:
-1. Vietnam (15637, 62.55%)
-2. Peru (8990, 35.96%)
-3. Democratic Republic of the Congo (313, 1.25%)
-4. Luxembourg (29, 0.12%)
-5. Svalbard and Jan Mayen (19, 0.08%)
-6. Portugal (12, 0.05%)
+1. Vietnam (15697, 62.79%)
+2. Peru (9013, 36.05%)
+3. Democratic Republic of the Congo (245, 0.98%)
+4. Luxembourg (24, 0.1%)
+5. Svalbard and Jan Mayen (11, 0.04%)
+6. Portugal (10, 0.04%)
 7. Afghanistan (0, 0.0%)
 8. Albania (0, 0.0%)
 9. Algeria (0, 0.0%)
