@@ -1,18 +1,18 @@
-# Simulation results for October 2081
+# Simulation results for November 2081
 
-* **Runs simulated:** 25000 (in 4 minutes, 15 seconds)
+* **Runs simulated:** 25000 (in 4 minutes, 10 seconds)
 
-* **Estimated turns remaining (avg & 95% confidence interval):** 699 (698-701)
+* **Estimated turns remaining (avg & 95% confidence interval):** 697 (695-699)
 
-* **Estimated gameplay time remaining (avg turns, 1h per turn):** 29 days, 3 hours
+* **Estimated gameplay time remaining (avg turns, 1h per turn):** 29 days, 1 hours
 
 ## Wins by country:
-1. Peru (14162, 56.65%)
-2. Vietnam (10540, 42.16%)
-3. Democratic Republic of the Congo (243, 0.97%)
-4. Luxembourg (47, 0.19%)
-5. Portugal (6, 0.02%)
-6. Svalbard and Jan Mayen (2, 0.01%)
+1. Peru (14146, 56.58%)
+2. Vietnam (10634, 42.54%)
+3. Democratic Republic of the Congo (171, 0.68%)
+4. Luxembourg (43, 0.17%)
+5. Svalbard and Jan Mayen (5, 0.02%)
+6. Portugal (1, 0.0%)
 7. Afghanistan (0, 0.0%)
 8. Albania (0, 0.0%)
 9. Algeria (0, 0.0%)
