@@ -1,17 +1,17 @@
-# Simulation results for April 2085
+# Simulation results for May 2085
 
-* **Runs simulated:** 25000 (in 4 minutes, 31 seconds)
+* **Runs simulated:** 25000 (in 4 minutes, 12 seconds)
 
-* **Estimated turns remaining (avg & 95% confidence interval):** 671 (669-672)
+* **Estimated turns remaining (avg & 95% confidence interval):** 663 (661-665)
 
-* **Estimated gameplay time remaining (avg turns, 1h per turn):** 27 days, 23 hours
+* **Estimated gameplay time remaining (avg turns, 1h per turn):** 27 days, 15 hours
 
 ## Wins by country:
-1. Vietnam (14419, 57.68%)
-2. Peru (10430, 41.72%)
-3. Democratic Republic of the Congo (95, 0.38%)
-4. Luxembourg (55, 0.22%)
-5. Portugal (1, 0.0%)
+1. Vietnam (14124, 56.5%)
+2. Peru (10731, 42.92%)
+3. Democratic Republic of the Congo (85, 0.34%)
+4. Luxembourg (56, 0.22%)
+5. Portugal (4, 0.02%)
 6. Afghanistan (0, 0.0%)
 7. Albania (0, 0.0%)
 8. Algeria (0, 0.0%)
