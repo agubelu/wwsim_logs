@@ -1,18 +1,18 @@
-# Simulation results for January 2084
+# Simulation results for February 2084
 
-* **Runs simulated:** 25000 (in 4 minutes, 13 seconds)
+* **Runs simulated:** 25000 (in 4 minutes, 22 seconds)
 
-* **Estimated turns remaining (avg & 95% confidence interval):** 685 (683-687)
+* **Estimated turns remaining (avg & 95% confidence interval):** 692 (690-694)
 
-* **Estimated gameplay time remaining (avg turns, 1h per turn):** 28 days, 13 hours
+* **Estimated gameplay time remaining (avg turns, 1h per turn):** 28 days, 20 hours
 
 ## Wins by country:
-1. Vietnam (14190, 56.76%)
-2. Peru (10602, 42.41%)
-3. Democratic Republic of the Congo (139, 0.56%)
-4. Luxembourg (66, 0.26%)
-5. Svalbard and Jan Mayen (2, 0.01%)
-6. Portugal (1, 0.0%)
+1. Vietnam (14170, 56.68%)
+2. Peru (10589, 42.36%)
+3. Democratic Republic of the Congo (124, 0.5%)
+4. Luxembourg (115, 0.46%)
+5. Portugal (1, 0.0%)
+6. Svalbard and Jan Mayen (1, 0.0%)
 7. Afghanistan (0, 0.0%)
 8. Albania (0, 0.0%)
 9. Algeria (0, 0.0%)
