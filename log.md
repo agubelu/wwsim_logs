@@ -1,17 +1,17 @@
-# Simulation results for October 2086
+# Simulation results for November 2086
 
-* **Runs simulated:** 25000 (in 4 minutes, 4 seconds)
+* **Runs simulated:** 25000 (in 3 minutes, 58 seconds)
 
-* **Estimated turns remaining (avg & 95% confidence interval):** 646 (645-648)
+* **Estimated turns remaining (avg & 95% confidence interval):** 641 (639-643)
 
-* **Estimated gameplay time remaining (avg turns, 1h per turn):** 26 days, 22 hours
+* **Estimated gameplay time remaining (avg turns, 1h per turn):** 26 days, 17 hours
 
 ## Wins by country:
-1. Vietnam (14043, 56.17%)
-2. Peru (10869, 43.48%)
-3. Democratic Republic of the Congo (56, 0.22%)
-4. Luxembourg (28, 0.11%)
-5. Svalbard and Jan Mayen (4, 0.02%)
+1. Vietnam (14574, 58.3%)
+2. Peru (10345, 41.38%)
+3. Democratic Republic of the Congo (53, 0.21%)
+4. Luxembourg (26, 0.1%)
+5. Svalbard and Jan Mayen (2, 0.01%)
 6. Afghanistan (0, 0.0%)
 7. Albania (0, 0.0%)
 8. Algeria (0, 0.0%)
