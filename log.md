@@ -1,17 +1,17 @@
-# Simulation results for October 2087
+# Simulation results for November 2087
 
-* **Runs simulated:** 25000 (in 4 minutes, 32 seconds)
+* **Runs simulated:** 25000 (in 4 minutes, 3 seconds)
 
-* **Estimated turns remaining (avg & 95% confidence interval):** 643 (641-645)
+* **Estimated turns remaining (avg & 95% confidence interval):** 638 (636-640)
 
-* **Estimated gameplay time remaining (avg turns, 1h per turn):** 26 days, 19 hours
+* **Estimated gameplay time remaining (avg turns, 1h per turn):** 26 days, 14 hours
 
 ## Wins by country:
-1. Peru (12703, 50.81%)
-2. Vietnam (12206, 48.82%)
-3. Democratic Republic of the Congo (75, 0.3%)
-4. Luxembourg (11, 0.04%)
-5. Svalbard and Jan Mayen (5, 0.02%)
+1. Peru (13417, 53.67%)
+2. Vietnam (11480, 45.92%)
+3. Democratic Republic of the Congo (81, 0.32%)
+4. Luxembourg (16, 0.06%)
+5. Svalbard and Jan Mayen (6, 0.02%)
 6. Afghanistan (0, 0.0%)
 7. Albania (0, 0.0%)
 8. Algeria (0, 0.0%)
