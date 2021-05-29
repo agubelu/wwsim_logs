@@ -1,16 +1,16 @@
-# Simulation results for October 2090
+# Simulation results for November 2090
 
-* **Runs simulated:** 25000 (in 3 minutes, 44 seconds)
+* **Runs simulated:** 25000 (in 3 minutes, 47 seconds)
 
-* **Estimated turns remaining (avg & 95% confidence interval):** 572 (570-574)
+* **Estimated turns remaining (avg & 95% confidence interval):** 579 (577-580)
 
-* **Estimated gameplay time remaining (avg turns, 1h per turn):** 23 days, 20 hours
+* **Estimated gameplay time remaining (avg turns, 1h per turn):** 24 days, 3 hours
 
 ## Wins by country:
-1. Vietnam (15049, 60.2%)
-2. Peru (9939, 39.76%)
-3. Luxembourg (6, 0.02%)
-4. Democratic Republic of the Congo (5, 0.02%)
+1. Vietnam (13812, 55.25%)
+2. Peru (11176, 44.7%)
+3. Democratic Republic of the Congo (6, 0.02%)
+4. Luxembourg (5, 0.02%)
 5. Svalbard and Jan Mayen (1, 0.0%)
 6. Afghanistan (0, 0.0%)
 7. Albania (0, 0.0%)
