@@ -1,15 +1,15 @@
-# Simulation results for August 2093
+# Simulation results for September 2093
 
-* **Runs simulated:** 25000 (in 3 minutes, 19 seconds)
+* **Runs simulated:** 25000 (in 3 minutes, 12 seconds)
 
-* **Estimated turns remaining (avg & 95% confidence interval):** 474 (472-475)
+* **Estimated turns remaining (avg & 95% confidence interval):** 469 (468-471)
 
-* **Estimated gameplay time remaining (avg turns, 1h per turn):** 19 days, 18 hours
+* **Estimated gameplay time remaining (avg turns, 1h per turn):** 19 days, 13 hours
 
 ## Wins by country:
-1. Vietnam (21166, 84.66%)
-2. Peru (3832, 15.33%)
-3. Democratic Republic of the Congo (1, 0.0%)
+1. Vietnam (21760, 87.04%)
+2. Peru (3236, 12.94%)
+3. Democratic Republic of the Congo (3, 0.01%)
 4. Luxembourg (1, 0.0%)
 5. Afghanistan (0, 0.0%)
 6. Albania (0, 0.0%)
