@@ -1,16 +1,16 @@
-# Simulation results for March 2092
+# Simulation results for April 2092
 
-* **Runs simulated:** 25000 (in 3 minutes, 41 seconds)
+* **Runs simulated:** 25000 (in 3 minutes, 35 seconds)
 
-* **Estimated turns remaining (avg & 95% confidence interval):** 543 (541-544)
+* **Estimated turns remaining (avg & 95% confidence interval):** 540 (538-541)
 
-* **Estimated gameplay time remaining (avg turns, 1h per turn):** 22 days, 15 hours
+* **Estimated gameplay time remaining (avg turns, 1h per turn):** 22 days, 12 hours
 
 ## Wins by country:
-1. Vietnam (15517, 62.07%)
-2. Peru (9477, 37.91%)
-3. Democratic Republic of the Congo (4, 0.02%)
-4. Luxembourg (2, 0.01%)
+1. Vietnam (16276, 65.1%)
+2. Peru (8720, 34.88%)
+3. Luxembourg (3, 0.01%)
+4. Democratic Republic of the Congo (1, 0.0%)
 5. Afghanistan (0, 0.0%)
 6. Albania (0, 0.0%)
 7. Algeria (0, 0.0%)
