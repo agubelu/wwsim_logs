@@ -1,14 +1,14 @@
-# Simulation results for January 2096
+# Simulation results for February 2096
 
-* **Runs simulated:** 25000 (in 3 minutes, 25 seconds)
+* **Runs simulated:** 25000 (in 3 minutes, 31 seconds)
 
-* **Estimated turns remaining (avg & 95% confidence interval):** 496 (494-497)
+* **Estimated turns remaining (avg & 95% confidence interval):** 496 (495-498)
 
 * **Estimated gameplay time remaining (avg turns, 1h per turn):** 20 days, 16 hours
 
 ## Wins by country:
-1. Vietnam (17415, 69.66%)
-2. Peru (7585, 30.34%)
+1. Vietnam (17400, 69.6%)
+2. Peru (7600, 30.4%)
 3. Afghanistan (0, 0.0%)
 4. Albania (0, 0.0%)
 5. Algeria (0, 0.0%)
