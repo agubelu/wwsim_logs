@@ -1,14 +1,14 @@
-# Simulation results for October 2100
+# Simulation results for November 2100
 
-* **Runs simulated:** 25000 (in 2 minutes, 31 seconds)
+* **Runs simulated:** 25000 (in 2 minutes, 30 seconds)
 
-* **Estimated turns remaining (avg & 95% confidence interval):** 337 (336-338)
+* **Estimated turns remaining (avg & 95% confidence interval):** 340 (339-341)
 
-* **Estimated gameplay time remaining (avg turns, 1h per turn):** 14 days, 1 hours
+* **Estimated gameplay time remaining (avg turns, 1h per turn):** 14 days, 4 hours
 
 ## Wins by country:
-1. Vietnam (24450, 97.8%)
-2. Peru (550, 2.2%)
+1. Vietnam (24362, 97.45%)
+2. Peru (638, 2.55%)
 3. Afghanistan (0, 0.0%)
 4. Albania (0, 0.0%)
 5. Algeria (0, 0.0%)
