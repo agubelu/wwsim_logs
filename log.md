@@ -1,14 +1,14 @@
-# Simulation results for March 2104
+# Simulation results for April 2104
 
-* **Runs simulated:** 25000 (in 2 minutes, 10 seconds)
+* **Runs simulated:** 25000 (in 2 minutes, 12 seconds)
 
 * **Estimated turns remaining (avg & 95% confidence interval):** 270 (269-271)
 
 * **Estimated gameplay time remaining (avg turns, 1h per turn):** 11 days, 6 hours
 
 ## Wins by country:
-1. Vietnam (24892, 99.57%)
-2. Peru (108, 0.43%)
+1. Vietnam (24920, 99.68%)
+2. Peru (80, 0.32%)
 3. Afghanistan (0, 0.0%)
 4. Albania (0, 0.0%)
 5. Algeria (0, 0.0%)
