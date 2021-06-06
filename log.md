@@ -1,10 +1,10 @@
-# Simulation results for October 2107
+# Simulation results for November 2107
 
-* **Runs simulated:** 25000 (in 1 minutes, 58 seconds)
+* **Runs simulated:** 25000 (in 1 minutes, 53 seconds)
 
-* **Estimated turns remaining (avg & 95% confidence interval):** 219 (218-219)
+* **Estimated turns remaining (avg & 95% confidence interval):** 215 (215-215)
 
-* **Estimated gameplay time remaining (avg turns, 1h per turn):** 9 days, 3 hours
+* **Estimated gameplay time remaining (avg turns, 1h per turn):** 8 days, 23 hours
 
 ## Wins by country:
 1. Vietnam (25000, 100.0%)
