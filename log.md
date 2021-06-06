@@ -1,14 +1,14 @@
-# Simulation results for November 2106
+# Simulation results for December 2106
 
-* **Runs simulated:** 25000 (in 2 minutes, 0 seconds)
+* **Runs simulated:** 25000 (in 1 minutes, 59 seconds)
 
-* **Estimated turns remaining (avg & 95% confidence interval):** 230 (229-230)
+* **Estimated turns remaining (avg & 95% confidence interval):** 231 (230-231)
 
-* **Estimated gameplay time remaining (avg turns, 1h per turn):** 9 days, 14 hours
+* **Estimated gameplay time remaining (avg turns, 1h per turn):** 9 days, 15 hours
 
 ## Wins by country:
-1. Vietnam (24997, 99.99%)
-2. Democratic Republic of the Congo (2, 0.01%)
+1. Vietnam (24998, 99.99%)
+2. Democratic Republic of the Congo (1, 0.0%)
 3. Peru (1, 0.0%)
 4. Afghanistan (0, 0.0%)
 5. Albania (0, 0.0%)
