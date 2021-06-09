@@ -1,14 +1,14 @@
-# Simulation results for June 2112
+# Simulation results for August 2112
 
-* **Runs simulated:** 50000 (in 2 minutes, 5 seconds)
+* **Runs simulated:** 50000 (in 1 minutes, 59 seconds)
 
-* **Estimated turns remaining (avg & 95% confidence interval):** 145 (145-146)
+* **Estimated turns remaining (avg & 95% confidence interval):** 138 (137-138)
 
-* **Estimated gameplay time remaining (avg turns, 1h per turn):** 6 days, 1 hours
+* **Estimated gameplay time remaining (avg turns, 1h per turn):** 5 days, 18 hours
 
 ## Wins by country:
-1. Vietnam (49998, 100.0%)
-2. Democratic Republic of the Congo (2, 0.0%)
+1. Vietnam (49997, 99.99%)
+2. Democratic Republic of the Congo (3, 0.01%)
 3. Afghanistan (0, 0.0%)
 4. Albania (0, 0.0%)
 5. Algeria (0, 0.0%)
